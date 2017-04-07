@@ -1,0 +1,27 @@
+{
+    "name": "Laravel Sharepoint upload client",
+    "description": "Simple library for file uploading to Microsoft Sharepoint site",
+    "keywords": ["sharepoint","microsoft","upload","oauth"],
+    "homepage": "https://github.com/jakub-klapka/laravel-sharepoint-upload-client",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jakub Klapka",
+            "email": "klapka@lumiart.cz"
+        }
+    ],
+    "require": {
+        "php": ">=5.6",
+        "laravel/framework": ">=5.3",
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "require-dev": {
+        "php": ">=7.1",
+        "phpunit/phpunit": "~5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "JakubKlapka\\LaravelSharepointUploadClient\\": ".src/"
+        }
+    },
+}
