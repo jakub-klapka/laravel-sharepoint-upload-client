@@ -1,5 +1,5 @@
 {
-    "name": "Laravel Sharepoint upload client",
+    "name": "jakub-klapka/laravel-sharepoint-upload-client",
     "description": "Simple library for file uploading to Microsoft Sharepoint site",
     "keywords": ["sharepoint","microsoft","upload","oauth"],
     "homepage": "https://github.com/jakub-klapka/laravel-sharepoint-upload-client",
